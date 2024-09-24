@@ -1,2 +1,3 @@
-# .github
-All About Japan IT HGU
+# 한동일본IT학회
+
+(소개글 작성중....)
